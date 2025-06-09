@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(background.jpg);
+  --dplus-backdrop: url(https://github.com/s27x4/vencord/blob/main/1249578.jpg?raw=true);
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 60;
   --dplus-accent-color-saturation: 0%;
@@ -39,7 +39,7 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(background.jpg);
+  --dplus-backdrop: url(https://github.com/s27x4/vencord/blob/main/1249578.jpg?raw=true);
   
   --dplus-accent-color-hue: 200;
   --dplus-accent-color-saturation: 100%;
