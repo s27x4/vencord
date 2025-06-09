@@ -1,0 +1,90 @@
+/**
+ * @name Discordx4
+ * @author 僕
+ * @authorId 309931975102300160
+ * @authorLink https://x-4.jp
+ * @version 0.0.1
+ * @description It is based on an AI-generated image of a neon-style gawr gura.
+ * @donate 
+ * @website 
+ * @source 
+ * @updateUrl 
+ * @invite 
+*/
+@import url(https://plusinsta.github.io/discord-plus/src/DiscordPlus-source.theme.css);
+
+/* I've commented most of these values so you can change them yourself. If you're having trouble, or you want to do more than what these values allow for, a volunteer might be able to help you in my server. */
+
+.theme-dark {
+/* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
+   To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
+  --dplus-backdrop: url(https://lh3.googleusercontent.com/fife/ALs6j_FLCp_LsfmvBKWNIEdX_eIoJR1CTlU3DOUNndZijZkc3VCQDMQXGg6rFG2ZKuOuxKPo6ivhxfMbygKZRbSh3i51IX1bltXwCHQonjM7ZzBK3XQSUwjQE-F1Odew9-fJ5pGt5n_2TxynKRIALv8OmelhwpnbveXBi99eJ6g-DNB0SGHTmWOhvcRMqfW5ZErxc2lxavE4P0yIJhCZZ3F2qX3KCu-Yqks1Gxptrk56sKIeseod4ZNWqp4MjBfyJBM4EGV5uQdQs1JO1gl9Vyi3NmQA3XPS_KV79yuXKb3ZC4vthGarw2C4xBGC38mRcyFT_pMIqn3S6l0QEEpXpfpLWWiQupO5yHLxOQCG0h4n_fyyUn4wXEYFjOBMEk6i-qYCTOiJFsjHfc_2Cv6muG98LNyrzlwCQR5ehukEBk7mm-u1M1p531IhtZhqOlCvHao3DX0M0PSa-1bmW0dkeLzsU2kff1ZVBRtejbPYwcnGEVaihP08jE4y0meDBgyX9ZQ2VLQKuckBNHsiWbjl1rVaKEhS4tMxX_rmjBmTBNR-m5-vhd6b069_x7X3l0tgF2rVdApsC1NrTeg1ZD01qE0ycurjWI_pBHrwzT8P9oKoddf-VaKIqp6SSXt9d1UckBKVml39mKpkAK2chXF4bm1vUVLTfzKK_bWF-AvFJZwSPDqsDEaW8Oa8Oos_L0I_elZvm8pafwEbCQLXrXmkRtfEP_f4S8wHC2xEurKY7x1xlCTHUS0lAVZQswL0Q1sXIcsGFu2kOfpgwpqFVGJbhl8McWPvCbSzcOqzkp0wj7yLgAWuAbfl1dLB39c7vegAiygYDotstICZiGF1Iv-izq16jFxFC3daejJyuB04OA8el-QHHIGaw4rbRmw9_gIehKlwwwkrpv1lseo54R5ZZjziB0c_sE8cKayjUWztF21Dz9Lw26iI5TxPATxKck-tnh5KIF-02Q1GIQ_H6sL5JpqOtoNbieTS9PANhp5Jmp12zZkpQNzBX1MeiicmiTYtnqW94VZcsKl3-zXFivSnfizSG1CfK9k3oCpDkB-WoD4s22keH0BZJhn2wAFZA7bjYZdskoEPnKr4HEvwS06ICVvBxwcRC2jPKULxElmOgLsuY6iYeVYEr7YskNDJB__fnfLY-sF-PF9m9F5y2qUAiPT5iBurDyVhuk-17JGULoomo11Ruj07OZp38NNN2Ycf26sJbh-UQUiDgeqs15UjGH2oOVuB9wQ8ReTq4d1QBpc_SLpTeU_t2CJGasoEpT1tvVTGtOg2mNlHwxmwQ6IjvuqBrVKehXivKKN_8oK0sRPdQD3yIowlvymgI0xgt4S8mzRH901s2_cNGf_v1O5_ajzN_QBe_PLTpWn747sGnXOygNShYnpHHTV4YSU_RS74fT6Ed-2uapsXGnD-06_jO5dwA3WrTa51HHIHSx2h7nh_8ko2GVYhI-O4IBWuUbYLnLjHSEHKUgBL2rqrqbg_KggMmm9X2hWwycvFasn_yrv-h-Szl84tIUor4ghPe3ePg_y6wwEwwyyLmM2fqAs-NuEvfevcUYfzsmOMqWkUZEpqTowxcsllr2dRIbs6W5Fngm-bKAt2dVB6uXOgwlLooJ5YnfJcljhGcPpTIU6uND4qVqK1bwwp5kWlMmW4zMXEpFJteDdsurnTn8xucMKXEmF178fW1E-E=w2437-h1432);
+/* Accent color, used to decorate the UI with colors. */
+  --dplus-accent-color-hue: 60;
+  --dplus-accent-color-saturation: 0%;
+  --dplus-accent-color-lightness: 50%;
+
+/* Foreground color: For things like text and icons. */
+  --dplus-foreground-color-hue-base: 60;
+  --dplus-foreground-color-hue-links: 60;
+  --dplus-foreground-color-saturation-amount: 1;
+  --dplus-foreground-color-lightness-amount: 1;
+
+/* Background color: Covers the backdrop so the app is easier to read. */
+  --dplus-background-color-hue:60;
+  --dplus-background-color-saturation-amount: 0;
+  --dplus-background-color-lightness-amount: 1;
+  --dplus-background-color-alpha: 0.7;
+}
+
+/* If you use light theme, you can give it unique settings that are separate from dark theme. */
+.theme-light {
+  --dplus-backdrop: url(https://lh3.googleusercontent.com/fife/ALs6j_FLCp_LsfmvBKWNIEdX_eIoJR1CTlU3DOUNndZijZkc3VCQDMQXGg6rFG2ZKuOuxKPo6ivhxfMbygKZRbSh3i51IX1bltXwCHQonjM7ZzBK3XQSUwjQE-F1Odew9-fJ5pGt5n_2TxynKRIALv8OmelhwpnbveXBi99eJ6g-DNB0SGHTmWOhvcRMqfW5ZErxc2lxavE4P0yIJhCZZ3F2qX3KCu-Yqks1Gxptrk56sKIeseod4ZNWqp4MjBfyJBM4EGV5uQdQs1JO1gl9Vyi3NmQA3XPS_KV79yuXKb3ZC4vthGarw2C4xBGC38mRcyFT_pMIqn3S6l0QEEpXpfpLWWiQupO5yHLxOQCG0h4n_fyyUn4wXEYFjOBMEk6i-qYCTOiJFsjHfc_2Cv6muG98LNyrzlwCQR5ehukEBk7mm-u1M1p531IhtZhqOlCvHao3DX0M0PSa-1bmW0dkeLzsU2kff1ZVBRtejbPYwcnGEVaihP08jE4y0meDBgyX9ZQ2VLQKuckBNHsiWbjl1rVaKEhS4tMxX_rmjBmTBNR-m5-vhd6b069_x7X3l0tgF2rVdApsC1NrTeg1ZD01qE0ycurjWI_pBHrwzT8P9oKoddf-VaKIqp6SSXt9d1UckBKVml39mKpkAK2chXF4bm1vUVLTfzKK_bWF-AvFJZwSPDqsDEaW8Oa8Oos_L0I_elZvm8pafwEbCQLXrXmkRtfEP_f4S8wHC2xEurKY7x1xlCTHUS0lAVZQswL0Q1sXIcsGFu2kOfpgwpqFVGJbhl8McWPvCbSzcOqzkp0wj7yLgAWuAbfl1dLB39c7vegAiygYDotstICZiGF1Iv-izq16jFxFC3daejJyuB04OA8el-QHHIGaw4rbRmw9_gIehKlwwwkrpv1lseo54R5ZZjziB0c_sE8cKayjUWztF21Dz9Lw26iI5TxPATxKck-tnh5KIF-02Q1GIQ_H6sL5JpqOtoNbieTS9PANhp5Jmp12zZkpQNzBX1MeiicmiTYtnqW94VZcsKl3-zXFivSnfizSG1CfK9k3oCpDkB-WoD4s22keH0BZJhn2wAFZA7bjYZdskoEPnKr4HEvwS06ICVvBxwcRC2jPKULxElmOgLsuY6iYeVYEr7YskNDJB__fnfLY-sF-PF9m9F5y2qUAiPT5iBurDyVhuk-17JGULoomo11Ruj07OZp38NNN2Ycf26sJbh-UQUiDgeqs15UjGH2oOVuB9wQ8ReTq4d1QBpc_SLpTeU_t2CJGasoEpT1tvVTGtOg2mNlHwxmwQ6IjvuqBrVKehXivKKN_8oK0sRPdQD3yIowlvymgI0xgt4S8mzRH901s2_cNGf_v1O5_ajzN_QBe_PLTpWn747sGnXOygNShYnpHHTV4YSU_RS74fT6Ed-2uapsXGnD-06_jO5dwA3WrTa51HHIHSx2h7nh_8ko2GVYhI-O4IBWuUbYLnLjHSEHKUgBL2rqrqbg_KggMmm9X2hWwycvFasn_yrv-h-Szl84tIUor4ghPe3ePg_y6wwEwwyyLmM2fqAs-NuEvfevcUYfzsmOMqWkUZEpqTowxcsllr2dRIbs6W5Fngm-bKAt2dVB6uXOgwlLooJ5YnfJcljhGcPpTIU6uND4qVqK1bwwp5kWlMmW4zMXEpFJteDdsurnTn8xucMKXEmF178fW1E-E=w2437-h1432);
+  
+  --dplus-accent-color-hue: 200;
+  --dplus-accent-color-saturation: 100%;
+  --dplus-accent-color-lightness: 100%;
+  
+  --dplus-foreground-color-hue-base: 210;
+  --dplus-foreground-color-hue-links: 320;
+  --dplus-foreground-color-saturation-amount: 1;
+  --dplus-foreground-color-lightness-amount: 1;
+
+  --dplus-background-color-hue: 320;
+  --dplus-background-color-saturation-amount: 1;
+  --dplus-background-color-lightness-amount: 1;
+  --dplus-background-color-alpha: 0.8;
+}
+
+:root {
+/* Fonts */
+/* You can use any installed font on your device. */
+  --dplus-font-ui: 'Poppins';
+  --dplus-font-body: 'Roboto';
+  --dplus-font-header: 'Righteous';
+
+/* Round corner sizes, measured in pixel radius.
+Set avatar/server radius to 50% to make them circular.
+   UI radius must be in pixels, otherwise things break. */
+  --dplus-radius-ui: 10px;
+  --dplus-radius-avatar: 20%;
+  --dplus-radius-server: 20%;
+
+/* This decides how much breathing room there should be between things like buttons and content. */
+  --dplus-spacing-ui: 10px;
+
+/* This sets how much space there should be between the app contents and the edges of the window. It also affects the distance between major UI elements, such as the server list to the channel list and channel list to the chat. */
+  --dplus-spacing-app: 10px;
+
+/* Size of user and server icons */
+--dplus-icon-avatar-chat: 64px;
+--dplus-icon-avatar-list: 32px;
+--dplus-icon-avatar-profile: 80px;
+
+--dplus-icon-server-sidebar: 48px;
+--dplus-icon-server-list: 32px;
+
+/* The Home icon on the top left */
+--dplus-icon-home-dark: url(https://plusinsta.github.io/discord-plus/assets/discord/home_dark.svg);
+--dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
+}
